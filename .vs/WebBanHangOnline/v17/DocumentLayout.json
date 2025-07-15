@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\webbanhangonline\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\webbanhangonline\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|e:\\school\\do_an_chuyen_nganh\\websitebanhang\\webbanhangonline\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|e:\\school\\do_an_chuyen_nganh\\websitebanhang\\webbanhangonline\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|e:\\school\\do_an_chuyen_nganh\\websitebanhang\\webbanhangonline\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\webbanhangonline\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\webbanhangonline\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\webbanhangonline\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80580E5F-367D-40AB-81F3-4A2ED48350EC}|WebBanHangOnline\\WebBanHangOnline.csproj|E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\webbanhangonline\\areas\\admin\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,11 +78,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "web.config",
+              "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
+              "ToolTip": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-15T04:06:57.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "202507141127177_Init Migaration.cs",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\Migrations\\202507141127177_Init Migaration.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Migrations\\202507141127177_Init Migaration.cs",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Configuration.cs",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Migrations\\Configuration.cs",
@@ -102,20 +119,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Web.config",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\Web.config",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Web.config",
               "ToolTip": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\Web.config",
               "RelativeToolTip": "WebBanHangOnline\\Web.config",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAsAAAB8AAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAewCMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-04-06T19:58:24.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Startup.cs",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\Startup.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Startup.cs",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "StatisticalController.cs",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\Areas\\Admin\\Controllers\\StatisticalController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\StatisticalController.cs",
@@ -139,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RoleController.cs",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
@@ -147,12 +164,11 @@
               "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T19:55:43.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T19:55:43.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
@@ -165,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProductCategoryController.cs",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
@@ -177,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SettingSystemController.cs",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\Areas\\Admin\\Controllers\\SettingSystemController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\SettingSystemController.cs",
@@ -189,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "OrderController.cs",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\Areas\\Admin\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\OrderController.cs",
@@ -201,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Startup.Auth.cs",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\App_Start\\Startup.Auth.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\App_Start\\Startup.Auth.cs",
@@ -213,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\App_Start\\RouteConfig.cs",
@@ -225,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IdentityConfig.cs",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\App_Start\\IdentityConfig.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\App_Start\\IdentityConfig.cs",
@@ -237,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "FilterConfig.cs",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\App_Start\\FilterConfig.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\App_Start\\FilterConfig.cs",
@@ -249,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "BundleConfig.cs",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "WebBanHangOnline\\App_Start\\BundleConfig.cs",
@@ -261,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\school\\Do_an_chuyen_nganh\\WebsiteBanhang\\WebBanHangOnline\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Contact\\Index.cshtml",
